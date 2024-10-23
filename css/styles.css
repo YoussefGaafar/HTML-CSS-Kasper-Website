@@ -177,7 +177,8 @@ header nav ul {
     }
 
     header nav .toggle-menu:hover+ul,
-    header nav .toggle-menu:active+ul {
+    header nav .toggle-menu:active+ul,
+    header nav .toggle-menu:focus+ul {
         display: flex;
         flex-direction: column;
         position: absolute;
