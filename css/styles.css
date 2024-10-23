@@ -409,6 +409,7 @@ header nav .form i {
     background-size: cover;
     display: flex;
     align-items: center;
+
     /* This will hide the overflow of the image */
     overflow: hidden;
 }
